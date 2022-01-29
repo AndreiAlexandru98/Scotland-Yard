@@ -1,6 +1,6 @@
 # Scotland Yard Board Game
 
- This is the full coursework for the Object Orientated Programming course, in my first year of university. It simulates the Scotland Yard board game.
+ Team of two students. This is the full coursework for the Object Orientated Programming course, in my first year of university. It simulates the Scotland Yard board game.
 - A GUI skeleton was given. All the logic was implemented by the students
 - The implemented AI makes use of a breadth-first search algorithm to look across the board and make decisions.
  
